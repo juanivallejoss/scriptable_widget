@@ -1,7 +1,7 @@
-1- Download Scriptable APP on your iOS device
-2- Copy the cards-widget.js code
-3- Create a new widget and paste content.
-4- Modify with your numbers, theme colors and entity name.
-and Done!🤩
-
+1- Download Scriptable APP on your iOS device <br>
+2- Copy the cards-widget.js code  <br>
+3- Create a new widget and paste content.  <br>
+4- Modify with your numbers, theme colors and entity name. <br>
+and Done!🤩 <br>
+ <br>
 PRO TIP: If you are a Apple Ecosystem user and you have a Mac, you can edit/create the files straight on your mac. Go to iCloud Drive > Scriptable > see your widgets there.
