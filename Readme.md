@@ -1,5 +1,5 @@
 1- Download <a href="https://apps.apple.com/es/app/scriptable/id1405459188">Scriptable</a> APP on your iOS device <br>
-2- Copy the cards-widget.js code  <br>
+2- Copy the cards widget.js code  <br>
 3- Create a new widget and paste content.  <br>
 4- Modify with your numbers, theme colors and entity name. <br>
 and Done!🤩 <br>
